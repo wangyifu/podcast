@@ -16,12 +16,7 @@
 title: 一千零一夜 出走季
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-《一千零一夜 出走季》作为一档读书节目，从日到夜，不一样的“街头”，邀你共读中西方经典书籍，
-以梁文道的视野及关怀，体察一本书的多个面向， 致力于为广大网友读者提供一份有深度、个性化的精神食粮。 
-　　
-每当我翻开一本书，那就是一段旅程的启始。踏上未知的领域，便知道天地宽阔。途中种种遭遇，是有待解读跟诠释的密码。
-所有的旅者也都是读者，因为阅读和旅行其实是同一种姿势。打开全部的感官，并且认真地消化和思索自己的见闻。
-出走，就是为了要做世界的读者。
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wangyifu.github.io" # the base hostname & protocol for your site
 default_thumb: "https://wangyifu.github.io/podcast/assets/img/ico.webp"
